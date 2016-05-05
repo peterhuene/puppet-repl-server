@@ -1,0 +1,19 @@
+{
+  "name": "puppet-repl-server",
+  "version": "1.0.0",
+  "description": "Puppet REPL server.",
+  "main": "server.js",
+  "keywords": [
+    "puppet",
+    "repl",
+    "server"
+  ],
+  "author": "Peter Huene",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "express": "^4.13.4",
+    "morgan": "^1.7.0",
+    "pty": "0.0.0",
+    "ws": "^1.1.0"
+  }
+}
